@@ -1,0 +1,54 @@
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+td.value {
+	background-image: url(grid.jpg);
+	background-repeat: repeat-x;
+	background-position: left top;
+	border-left: 1px solid #e5e5e5;
+	border-right: 1px solid #e5e5e5;
+	padding:0;
+	border-bottom: none;
+	background-color:transparent;
+}
+
+td {
+	padding: 4px 6px;
+	border-bottom:1px solid #e5e5e5;
+	border-left:1px solid #e5e5e5;
+	background-color:#fff;
+}
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#f0f8ff;
+}
+
+td.value img {
+	vertical-align: middle;
+	margin: 5px 5px 5px 0;
+}
+
+th {
+	text-align: left;
+	vertical-align:top;
+}
+
+table {
+	background-image:url(gradient.png);
+	background-repeat:repeat-x;
+	background-position:left top;
+	width: 33em;
+	margin:auto;
+}
+
+#pieR{
+	width: 900px;
+	height: 500px;
+	margin:auto;
+}
